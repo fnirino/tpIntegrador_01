@@ -1,0 +1,13 @@
+.text-decoration-underline-dotted {
+  text-decoration: underline!important;
+  text-decoration-style: dotted!important;
+}
+
+.bg-lime{
+  background-color:#96C93E!important;
+}
+
+.bg-blue.bg-gradient {
+  background: rgb(26,54,68)!important;
+  background: linear-gradient(90deg, rgba(26,54,68,1) 0%, rgba(28,83,114,1) 100%)!important;
+}
